@@ -1,2 +1,3 @@
 # Hello-World
-First got project
+First git project
+Making the branch and testing it
